@@ -1,5 +1,5 @@
 # X-Grabber 
-# Grabber https://gofile.io/d/6aLCGR 
+# Grabber 
 # Ip 
 # Games
 # key
